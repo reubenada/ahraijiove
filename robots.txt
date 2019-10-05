@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://efishuhohl.fewseh.org/sitemap.xml
